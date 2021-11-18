@@ -1,1 +1,3 @@
-This is an initial test of a readme file. Will add content later.
+Step IT Java course.
+
+Java is an awesome programming language.
